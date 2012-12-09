@@ -1,0 +1,18 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+
+body{
+	width:900px
+	margin: auto;
+}
+
+.grid{
+
+	
+	width:99%;
+	margin: auto;
+	min-height:500px;
+}
